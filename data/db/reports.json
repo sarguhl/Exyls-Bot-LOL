@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "id": 390880953972555786,
+            "name": "Sarguhl",
+            "reasons": [
+                "test 1",
+                "test 1",
+                "test 2"
+            ]
+        },
+        {
+            "id": 549309663502532608,
+            "name": "cielyla",
+            "reasons": [
+                "test 1",
+                "test 1",
+                "test 1",
+                "test 2",
+                "test 3"
+            ]
+        },
+        {
+            "id": 455467809065926657,
+            "name": "Spoopy D.A.Z.L",
+            "reasons": [
+                "1rst warning",
+                "2nd warning",
+                "3rd warning"
+            ]
+        }
+    ]
+}
